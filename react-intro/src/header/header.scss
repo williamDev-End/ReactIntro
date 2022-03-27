@@ -1,0 +1,11 @@
+.header{
+    background-color: #f0f;
+        &-title{
+            color: #0f0;
+            &-section{
+                font-size: 2rem;
+                background-color: blueviolet;
+            }
+        }
+       
+}

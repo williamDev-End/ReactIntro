@@ -1,0 +1,19 @@
+.main{
+    background-color: burlywood;
+    &-title{
+        font-size: 2rem;
+    }
+
+    &-article{
+        font-size: 1rem;
+        color: #000000;
+        &-button{
+            font-size: 2rem;
+            color: #242422;
+        }
+    }
+    &-button{
+        background-color: royalblue;
+        color: white;
+    }
+}
